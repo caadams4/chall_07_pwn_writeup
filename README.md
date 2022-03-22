@@ -13,6 +13,6 @@ Now lets recon the binary w/ radare 2.
 
 No vuln or win function. Interesting fgets and a call to the fgets' input. 
 
-Lets inset some shellcode. 
+Lets insert some shellcode. 
 
 ![image](https://user-images.githubusercontent.com/79220528/159482726-db98689e-f077-45f1-88aa-52e5a416b22c.png)
